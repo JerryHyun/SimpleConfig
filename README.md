@@ -22,8 +22,8 @@ You can control save config, load config, setting config variables in Blueprint.
 7. You can Save & Load
 ![cap07](https://user-images.githubusercontent.com/18024755/124413600-f412d680-dd8b-11eb-880c-898128e4281a.png)
 
-If you are using windows & UE4 editor, you can find config this path 
+If you are using windows & UE4 editor, you can find config file this path 
 	-> [Project Folder Path]\Saved\Config\Windows\SimpleConfig.ini
 
-If you are using packaging game in windows, you can find config this path 
-	-> [Game Folder Path]\[Game Project Name]\Saved\Config\WindowsNoEditor\SimpleConfig.ini
+If you are using packaging game in windows, you can find config file this path 
+	-> [Game Folder Path]\\[Game Project Name]\Saved\Config\WindowsNoEditor\SimpleConfig.ini
